@@ -48,6 +48,19 @@ Me chamo João Pedro de Souza Lustosa, tenho 27 anos e sou natural de Brasilia. 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" 
 />
+<img
+    align="left"
+    alt="Docker"
+    title="Docker"
+    width="30px"
+    style="padding-rigth: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg"
+/>
+<br/>
+<br/>
 
-<br/>
-<br/>
+---
+
+### 🤖 Repositorios
+
+[Repositorio](https://github.com/jplustosa?tab=repositories)
