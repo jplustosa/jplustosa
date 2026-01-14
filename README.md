@@ -2,7 +2,7 @@
 
 **`Arquiteto de Dados | DevOps & DataOps | DBA`**
 
-Me chamo João Pedro de Souza Lustosa, tenho 27 anos e sou natural de Brasilia. Estou no 5º semestre o curso de Arquitetura de dados na Anhanguera. Sou desenvolvedor apaixonado por tecnologia, sempre em busca de aprender e criar projetos inovadores. Aqui você encontrará alguns dos meus trabalhos e contribuições.
+Me chamo João Pedro de Souza Lustosa, tenho 27 anos e sou natural de Brasilia. Estou no 5º semestre do curso de Arquitetura de dados na Anhanguera. Sou desenvolvedor apaixonado por tecnologia, sempre em busca de aprender e criar projetos inovadores. Aqui você encontrará alguns dos meus trabalhos e contribuições.
 
 <img 
     align="left" 
