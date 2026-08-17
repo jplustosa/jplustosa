@@ -182,6 +182,5 @@ com foco em posições relacionadas a:
 
 ## Contato
 
-**LinkedIn:** linkedin.com/in/jplustosa
-**GitHub:** github.com/jplustosa
+**LinkedIn:** [https://linkedin.com/in/jplustosa]
 **E-mail:** [pedrolustosa5@gmail.com](mailto:pedrolustosa5@gmail.com)
