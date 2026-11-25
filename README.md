@@ -1,272 +1,89 @@
-# João Pedro de Souza Lustosa
+# João Pedro de Souza Lustosa aka Bellzin
 
 ### Data & Platform Engineer
 
 **DataOps · DevOps · DBA · Automation · Observability · Data Architecture**
 
-Profissional de Tecnologia da Informação com mais de 6 anos de experiência em ambientes corporativos, com trajetória em operações, sustentação, infraestrutura, bancos de dados, automação e observabilidade.
+> Build systems that are observable, automated, reproducible and resilient.
 
-Minha atuação vem evoluindo de **DBA e operações** para a construção de soluções de **DataOps, DevOps e Data Platform**, com foco em automação, confiabilidade, rastreabilidade e resiliência operacional.
+Profissional de TI com +6 anos em operações, sustentação, infraestrutura, bancos de dados, automação e observabilidade. Evoluindo de DBA/ops para **DataOps, DevOps e Data Platform**, com foco em automação, confiabilidade, rastreabilidade e resiliência operacional.
 
-Graduado em **Arquitetura de Dados pela Anhanguera (2026)**.
+Graduado em **Arquitetura de Dados (Anhanguera, 2026)**.
 
 ---
 
 ## Sobre mim
 
-Atuo na interseção entre **Dados, Desenvolvimento e Infraestrutura**.
+Atuo na interseção entre **Dados, Desenvolvimento e Infraestrutura**. Transformo processos operacionais e problemas recorrentes em soluções automatizadas, observáveis e reproduzíveis.
 
-Tenho interesse especial em transformar processos operacionais e problemas recorrentes em soluções automatizadas, observáveis e reproduzíveis.
-
-Minha abordagem de engenharia é baseada em:
+Princípios de engenharia:
 
 - Automação antes de operação manual repetitiva
 - Observabilidade antes de troubleshooting no escuro
 - Infraestrutura reproduzível
-- Dados e bancos tratados como componentes críticos
+- Dados e bancos como componentes críticos
 - CI/CD e validação automatizada
 - Documentação como parte da solução
 - Segurança desde o desenvolvimento
 
-### Minha evolução técnica
+**Evolução técnica:** DBA → Automação → DevOps → DataOps → Observabilidade → Data Platform → Auto-Healing
 
-**DBA → Automação → DevOps → DataOps → Observabilidade → Data Platform → Auto-Healing**
+---
+
+## Stack
+
+**Data & DB:** `Python` `SQL` `PostgreSQL` `Oracle` `PL/SQL` `MySQL` `SQL Server`
+**Data Engineering:** `Airflow` `Spark` `MinIO` `ETL/ELT` `Data Pipelines`
+**DevOps & Infra:** `Docker` `Git` `Linux` `Windows Server` `Ansible` `CI/CD` `GitHub Actions`
+**Observability:** `Prometheus` `Grafana` `Dynatrace` `Zabbix` `PRTG`
+**Dev & Integration:** `Flask` `Node.js` `REST APIs` `Shell Script`
+**Enterprise:** `TOTVS Protheus` `CA Service Desk` `AD` `M365` `Commvault`
 
 ---
 
 ## Projetos em destaque
 
-### 1. Data Platform Observability & Auto-Healing
+| Projeto                                                                                                                | Descrição                                                                                                                   |
+| ---------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| [Data Platform Observability &amp; Auto-Healing](https://github.com/jplustosa/data-platform-observability-auto-healing) | Plataforma experimental unindo dados, observabilidade e auto-healing (Airflow, Spark, PG, MinIO, Prometheus, Grafana, Docker) |
+| [caged-mcp](https://github.com/jplustosa/caged-mcp)                                                                     | MCP de dados do Novo CAGED (emprego formal): saldo/ranking por município, resumo por UF                                      |
+| [inep-mcp](https://github.com/jplustosa/inep-mcp)                                                                       | MCP do IDEB (INEP): IDEB por município/escola, rankings, 16.7k municípios × 3 níveis × 11 anos                           |
+| [siconfi-mcp](https://github.com/jplustosa/siconfi-mcp)                                                                 | MCP do SICONFI (Tesouro): RREO, RGF e resumo fiscal (receita, despesa, pessoal % RCL, dívida)                                |
+| [dataops-postgres-lab](https://github.com/jplustosa/dataops-postgres-lab)                                               | DataOps com PostgreSQL: migrações versionadas, validação CI, config por env                                               |
+| [postgres-monitoring-lab](https://github.com/jplustosa/postgres-monitoring-lab)                                         | Monitoramento de saúde e performance do PostgreSQL (Docker + SQL)                                                            |
 
-Plataforma experimental que integra processamento de dados, observabilidade e automação de recuperação.
-
-**Stack principal:** Python · Apache Airflow · Apache Spark · PostgreSQL · MinIO · Prometheus · Grafana · Docker
-
-**Conceitos:**
-
-- Data Platform
-- DataOps
-- Observabilidade
-- Métricas e monitoramento
-- Detecção de falhas
-- Auto-Healing
-- Resiliência operacional
-- Pipelines de dados
-
-É o principal projeto do meu portfólio por combinar **dados + infraestrutura + automação + observabilidade** em uma arquitetura única.
-
-[Ver projeto →](https://github.com/jplustosa/data-platform-observability-auto-healing)
+> Os 3 MCPs acima expõem **dados públicos brasileiros** (emprego, educação e finanças públicas) a agentes de IA via Python puro + SQLite, sem dependências externas.
 
 ---
 
-### 2. DataOps PostgreSQL Lab
+## Atualmente
 
-Laboratório focado em entrega controlada de alterações de banco de dados utilizando práticas de DataOps.
+- DataOps, DevOps e Data Platform Engineering
+- Observabilidade, CI/CD e automação de infraestrutura
+- Arquitetura de Dados e Arquitetura de Soluções
+- Cloud, microsserviços e mensageria
+- IA aplicada à automação
 
-**Stack:** PostgreSQL · Docker · SQL · Shell Script · GitHub Actions
-
-**Práticas:**
-
-- Versionamento de schema
-- Migrações controladas
-- Validação automatizada
-- CI para banco de dados
-- Configuração por variáveis de ambiente
-- Rastreabilidade das alterações
-
-[Ver projeto →](https://github.com/jplustosa/dataops-postgres-lab)
+Próximas evoluções nos projetos: **Gitleaks, Trivy, CodeQL, Dependabot, linting e pipelines mais completos**.
 
 ---
 
-### 3. PostgreSQL Monitoring Lab
+## Formação & Experiência
 
-Laboratório voltado à administração e observabilidade de PostgreSQL, com foco em análise de performance e identificação de gargalos.
+**Arquitetura de Dados — Anhanguera** (concluída em 2026)
 
-**Stack:** PostgreSQL · Docker · SQL
-
-**Práticas:**
-
-- `pg_stat_statements`
-- Análise de consultas
-- Simulação de carga
-- Identificação de queries problemáticas
-- Índices e otimização
-- Validação de melhoria de performance
-
-[Ver projeto →](https://github.com/jplustosa/postgres-monitoring-lab)
-
----
-
-### 4. SQL Query Monitor
-
-Automação em Python para processamento controlado de arquivos SQL e execução contra banco Oracle.
-
-**Stack:** Python · Oracle · SQL · CSV · Logging
-
-**Conceitos:**
-
-- Automação operacional
-- Processamento de arquivos
-- Execução de SQL
-- Logging
-- Tratamento de erros
-- Exportação de resultados
-
-[Ver projeto →](https://github.com/jplustosa/Monitor-de-Queries-SQL-Auto-Delete)
-
----
-
-## Arquitetura que estou construindo
-
-Meu foco atual é evoluir projetos individuais para soluções com características de plataformas reais:
-
-```text
-                ┌──────────────────────┐
-                │       Data Sources   │
-                └──────────┬───────────┘
-                           │
-                           ▼
-                ┌──────────────────────┐
-                │      Data Pipeline   │
-                │ Airflow / Spark      │
-                └──────────┬───────────┘
-                           │
-                           ▼
-                ┌──────────────────────┐
-                │   Storage / Database │
-                │ PostgreSQL / MinIO   │
-                └──────────┬───────────┘
-                           │
-                           ▼
-                ┌──────────────────────┐
-                │    Observability     │
-                │ Prometheus / Grafana │
-                └──────────┬───────────┘
-                           │
-                           ▼
-                ┌──────────────────────┐
-                │    Auto-Healing      │
-                │ Python Automation    │
-                └──────────────────────┘
-```
-
-A ideia é aplicar o mesmo princípio aos meus projetos: **executar, observar, detectar, agir e registrar**.
-
----
-
-## Core Stack
-
-### Data & Databases
-
-`Python` `SQL` `PostgreSQL` `Oracle` `PL/SQL` `MySQL` `SQL Server`
-
-### Data Engineering & DataOps
-
-`Apache Airflow` `Apache Spark` `MinIO` `DataOps` `ETL/ELT` `Data Pipelines`
-
-### DevOps & Infrastructure
-
-`Docker` `Git` `Linux` `Windows Server` `Ansible` `CI/CD` `GitHub Actions`
-
-### Observability
-
-`Prometheus` `Grafana` `Dynatrace` `Zabbix` `PRTG`
-
-### Development & Integration
-
-`Python` `Flask` `Node.js` `REST APIs` `JSON` `Shell Script`
-
-### Enterprise Operations
-
-`TOTVS Protheus` `CA Service Desk` `Active Directory` `Microsoft 365` `Commvault` `DataProtector`
-
----
-
-## Engineering Practices
-
-Estou estruturando meus projetos para seguir práticas mais próximas de ambientes produtivos:
-
-- Testes unitários e de integração
-- CI/CD
-- Versionamento semântico de alterações
-- Configuração via ambiente
-- Logs estruturados
-- Health checks
-- Observabilidade
-- Dockerização
-- Documentação técnica
-- Segurança e gestão de secrets
-- Análise de vulnerabilidades
-- Automação de infraestrutura
-
-Próximas evoluções incluem **Gitleaks, Trivy, CodeQL, Dependabot, linting e pipelines de integração mais completos**.
-
----
-
-## Atualmente construindo
-
-Estou concentrando meus estudos e projetos em:
-
-- DataOps
-- DevOps
-- Data Platform Engineering
-- Arquitetura de Dados
-- Arquitetura de Soluções
-- Observabilidade
-- CI/CD
-- Cloud Computing
-- Microsserviços
-- Mensageria
-- Governança de Dados
-- Inteligência Artificial aplicada à automação
-
----
-
-## Formação
-
-**Arquitetura de Dados — Anhanguera**  
-Graduação concluída em 2026.
-
----
-
-## Experiência
-
-Minha experiência profissional começou em suporte e operação de TI e evoluiu para infraestrutura, sustentação, bancos de dados, automação, observabilidade e desenvolvimento de soluções internas.
-
-Essa trajetória influencia diretamente minha forma de desenvolver software: não busco apenas uma aplicação que funcione. Busco soluções que sejam **observáveis, automatizáveis, documentadas, reproduzíveis e sustentáveis**.
+Trajetória: suporte/ops → infraestrutura → sustentação → bancos de dados → automação → observabilidade → desenvolvimento de soluções internas. Essa base molda meu foco em soluções **observáveis, automatizáveis, documentadas, reproduzíveis e sustentáveis**.
 
 ---
 
 ## Objetivo profissional
 
-Atuar na interseção entre:
-
-**Dados + Desenvolvimento + Infraestrutura + Automação**
-
-com foco em oportunidades relacionadas a:
-
-- DataOps
-- DevOps
-- Data Platform
-- Engenharia de Dados
-- Arquitetura de Dados
-- Arquitetura de Soluções
-- Platform Engineering
-- DBA
-- Observabilidade e Sustentação
+Atuar na interseção **Dados + Desenvolvimento + Infraestrutura + Automação**, em oportunidades de DataOps, DevOps, Data Platform, Engenharia de Dados, Arquitetura de Dados/Soluções, Platform Engineering, DBA e Observabilidade.
 
 ---
 
-## Conecte-se
+## Contato
 
-**GitHub:** [jplustosa](https://github.com/jplustosa)  
-**LinkedIn:** [linkedin.com/in/jplustosa](https://linkedin.com/in/jplustosa)  
-**E-mail:** [pedrolustosa5@gmail.com](mailto:pedrolustosa5@gmail.com)
-
----
-
-## Engineering Philosophy
-
-> Build systems that are observable, automated, reproducible and resilient.
-
-Meu objetivo não é apenas escrever código. É construir soluções que possam ser **operadas, monitoradas, evoluídas e recuperadas** de forma confiável.
+[![GitHub](https://img.shields.io/badge/GitHub-jplustosa-181717?logo=github)](https://github.com/jplustosa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jplustosa-0A66C2?logo=linkedin)](https://www.linkedin.com/in/jplustosa/)
+[![Email](https://img.shields.io/badge/Email-pedrolustosa5%40gmail.com-D14836?logo=gmail)](mailto:pedrolustosa5@gmail.com)
